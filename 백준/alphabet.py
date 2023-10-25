@@ -21,6 +21,6 @@
 input_word = input("")
 아크로바틱 = ['c=', 'c-', 'dz=', 'd-', 'lj', 'nj', 's=', 'z=']
 for i in 아크로바틱:
-    input_word = input_word.replace(i,"*"ㄴ
+    input_word = input_word.replace(i,"*")
 
 print(len(input_word))
